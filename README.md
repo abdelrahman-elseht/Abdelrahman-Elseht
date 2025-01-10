@@ -27,7 +27,7 @@ I love exploring the endless possibilities of AI and sharing my knowledge throug
 I’d love to collaborate or chat about ideas in AI and data science. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-e-2bbb882a2/)
-- ✉️ Email: abdelrahman@example.com
+- ✉️ Email: elsehtabdelrahman@gmail.com
 
 Thanks for stopping by❤️
 
