@@ -24,6 +24,7 @@ I love meeting like-minded people who are as passionate about AI and data as I a
 
 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-e-2bbb882a2/)
 ✉️ [Email](elsehtabdelrahman@gmail.com)
+
 🔧 Tools I Use
 Here are some of my favorite tools and frameworks:
 
