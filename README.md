@@ -11,15 +11,23 @@ I’m all about sharing what I learn along the way, whether through projects, tu
 Here’s what I’m pretty good at (and always trying to get better at):
 
 Artificial Intelligence & Machine Learning
+
 Designing, training, and deploying ML models.
+
 Working with NLP, computer vision, and predictive analytics.
+
 Data Science
-Cleaning, analyzing, and visualizing data like a pro.
+
+Cleaning, analyzing, and visualizing data .
+
 Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+
 Querying and managing data with SQL.
 
 Status: Always adding more!
+
 📬 Let’s Connect!
+
 I love meeting like-minded people who are as passionate about AI and data as I am. Whether you want to collaborate, ask questions, or just chat about cool ideas, feel free to reach out!
 
 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-e-2bbb882a2/)
