@@ -30,6 +30,7 @@ I’d love to collaborate or chat about ideas in AI and data science. Feel free 
 	•	✉️ Email: abdelrahman@example.com
 
 Thanks for stopping by❤️
+
 let’s build something amazing together! 🚀
 
 
