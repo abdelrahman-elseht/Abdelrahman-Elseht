@@ -43,13 +43,20 @@ I love meeting like-minded people who are as passionate about AI and data as I a
 Here are some of my favorite tools and frameworks:
 
 Languages: Python.
+
 Frameworks: TensorFlow, PyTorch, scikit-learn.
+
 Tools: Git, Docker.
+
 🌱 What I’m Learning Right Now
+
 I believe in always staying curious. Currently, I’m diving deeper into:
 
 Advanced NLP techniques.
+
 Building scalable AI solutions.
+
 Automation and CI/CD for data science.
+
 Thanks for stopping by! If you made it this far, you’re awesome. Let’s build something amazing together!
 
